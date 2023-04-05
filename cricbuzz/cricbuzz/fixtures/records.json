@@ -1,0 +1,134 @@
+[
+    {
+        "model": "cricbuzz.basemodel",
+        "pk": 1,
+        "fields": {
+            "created_at": "2023-04-05",
+            "updated_at": "2023-04-05"
+        }
+    },
+    {
+        "model": "cricbuzz.data",
+        "pk":1,
+        "fields": {
+            "id": 1,
+            "title": "IPL",
+            "url": "",
+            "description": "Does batting or bowling win the IPL?",
+            "thumbnail": "",
+            "is_premium": false,
+            "is_video": false,
+            "is_featured": true
+        }
+    },
+    {
+        "model": "cricbuzz.basemodel",
+        "pk": 2,
+        "fields": {
+            "created_at": "2023-04-05",
+            "updated_at": "2023-04-05"
+        }
+    },
+    {
+        "model": "cricbuzz.data",
+        "pk": 2,        
+        "fields": {
+            "id": 2,
+            "title": "IPL",
+            "url": "",
+            "description": "Will David Miller score centuary in today's match?",
+            "thumbnail": "",
+            "is_premium": false,
+            "is_video": false,
+            "is_featured": false
+        }
+    },
+    {
+        "model": "cricbuzz.basemodel",
+        "pk": 3,
+        "fields": {
+            "created_at": "2023-04-05",
+            "updated_at": "2023-04-05"
+        }
+    },
+    {
+        "model": "cricbuzz.data",
+        "pk": 3,   
+        "fields": {
+            "id": 3,
+            "title": "IPL",
+            "url": "",
+            "description": "Captain Cool smashes 12 runs against LSG, wins the match",
+            "thumbnail": "",
+            "is_premium": false,
+            "is_video": false,
+            "is_featured": true
+        }
+    },
+    {
+        "model": "cricbuzz.basemodel",
+        "pk": 4,
+        "fields": {
+            "created_at": "2023-04-05",
+            "updated_at": "2023-04-05"
+        }
+    },
+    {
+        "model": "cricbuzz.data",
+        "pk": 4,   
+        "fields": {
+            "id": 4,
+            "title": "WPL",
+            "url": "",
+            "description": "Mumbai Indians beat Delhi Capitals by 7 wickets, win inaugural WPL",
+            "thumbnail": "",
+            "is_premium": true,
+            "is_video": true,
+            "is_featured": true
+        }
+    },
+    {
+        "model": "cricbuzz.basemodel",
+        "pk": 5,
+        "fields": {
+            "created_at": "2023-04-05",
+            "updated_at": "2023-04-05"
+        }
+    },
+    {
+        "model": "cricbuzz.data",
+        "pk": 5,   
+        "fields": {
+            "id": 5,
+            "title": "WPL",
+            "url": "",
+            "description": "Cricket in Transition: The shifting tides of women's game",
+            "thumbnail": "",
+            "is_premium": false,
+            "is_video": true,
+            "is_featured": false
+        }
+    },
+    {
+        "model": "cricbuzz.basemodel",
+        "pk": 6,
+        "fields": {
+            "created_at": "2023-04-05",
+            "updated_at": "2023-04-05"
+        }
+    },
+    {
+        "model": "cricbuzz.data",
+        "pk": 6,   
+        "fields": {
+            "id": 6,
+            "title": "WPL",
+            "url": "",
+            "description": "One leap of faith after the another, the Tara Norris journey",
+            "thumbnail": "",
+            "is_premium": false,
+            "is_video": true,
+            "is_featured": false
+        }
+    }
+]
